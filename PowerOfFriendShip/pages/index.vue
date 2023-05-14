@@ -73,9 +73,13 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
-    .Blazing {
-      background-color: aqua;
-      width: 5px;
+  .Blazing {
+      /* background-color: aqua; */
+      font-size: 40px;
+  }
+
+  .goku{
+    width: 200px;
   }
 }
 
